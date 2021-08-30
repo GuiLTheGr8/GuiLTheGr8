@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Guilherme Vassallo! (@GuiLTheGr8)
+# 👋 Hi, I’m Guilherme Vassallo! (@GuiLTheGr8)
 ## Welcome to my GitHub.
 
 I consider myself to be a deeply creative, critical and passionate person, as well as a gaming, music and storytelling aficionado. 🎮🍔💻🎸🏎 
@@ -23,4 +23,4 @@ since people say I have a relatively flexible voice.
 - 💞️ I’m looking to collaborate on impactful and creative projects, of whatever kind!
 
 - 📫 How to reach me: 
-## Go to my [LinkedIn](https://www.linkedin.com/in/guilherme-vassallo-36882712a/), or send an Email to: guilhermevassallo@hotmail.com
+### Go to my [LinkedIn](https://www.linkedin.com/in/guilherme-vassallo-36882712a/), or send an Email to: guilhermevassallo@hotmail.com
