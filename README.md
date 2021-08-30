@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Guilherme Vassallo! (@GuiLTheGr8)
 ## Welcome to my GitHub.
 
-I consider myself to be a deeply creative, critical and passionate person, as well as a gaming, music and storytelling aficionado. 🎮🍔💻🎸🏎 
+I consider myself to be a deeply creative, critical and passionate person, as well as a gaming, music and storytelling aficionado.
+### 🎮🍔💻🎸🏎 
 
 My biggest professional objective is to create and contribute to digital solutions and digital works of art that
 break paradigms and make people reflect about their lives, so they can change their mentality and even the world for the best!
