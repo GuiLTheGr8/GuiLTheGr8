@@ -50,6 +50,3 @@ since people say I have a relatively flexible voice.
 - 👀 I’m interested in Programming, games, apps, music, sound design and interfaces.
 - 🌱 I’m currently learning Python, Java, Javascript.
 - 💞️ I’m looking to collaborate on impactful and creative projects, of whatever kind!
-
-- 📫 How to reach me: 
-### Go to my [LinkedIn](https://www.linkedin.com/in/guilherme-vassallo-36882712a/), or send an Email to: guilhermevassallo@hotmail.com
