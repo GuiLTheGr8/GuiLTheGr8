@@ -14,19 +14,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
- 
- <br>
- 
-  ### My socials / Contact:
- 
-<div> 
-  <a href=https://www.youtube.com/@GuilzVidz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/GuiLTheGr8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gemeos@GuiLTheGr8.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-vassallo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  ![Snake animation](https://github.com/GuiLTheGr8/GuiLTheGr8/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+<br>
 
 ## Welcome to my GitHub.
 
@@ -47,6 +36,21 @@ Basic German apart from Portuguese, which is my main language. I also sing, play
 both as a hobby and for personal or non personal projects. I occasionally try to do voice acting as well,
 since people say I have a relatively flexible voice.
 
+<br>
+
 - 👀 I’m interested in Programming, games, apps, music, sound design and interfaces.
 - 🌱 I’m currently learning Python, Java, Javascript.
 - 💞️ I’m looking to collaborate on impactful and creative projects, of whatever kind!
+<br>
+ 
+## My socials / Contact:
+ 
+<div> 
+  <a href=https://www.youtube.com/@GuilzVidz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/GuiLTheGr8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gemeos@GuiLTheGr8.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-vassallo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+  ![Snake animation](https://github.com/GuiLTheGr8/GuiLTheGr8/blob/output/github-contribution-grid-snake.svg)
+
+</div>
