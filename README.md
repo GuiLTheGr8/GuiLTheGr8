@@ -19,22 +19,23 @@
 
 ## Welcome to my GitHub.
 
-I consider myself to be a deeply creative, critical and passionate person, as well as a gaming, music and storytelling aficionado.
+Hello there! My name is Guilherme, I'm 26 years old and I'm a... well, I try to be many things 😅.
 
-My biggest professional objective is to create and contribute to digital solutions and digital works of art that
-break paradigms and make people reflect about their lives, so they can change their mentality and even the world for the best!
+Professionally speaking, l consider myself to be a junior software/web developer currently and that's where most of my effort is directed.
 
-I was born in Nova Friburgo, RJ, Brazil,  but I moved to the city of Rio de Janeiro in order to
-find more and better job opportunities in the technology area, with an emphasis in software.
+I was born in Brazil and I currently live in my hometown of Nova Friburgo, RJ, but I can live and work from pretty much anywhere, depending on necessity. I'm always down for some new experiences, and I have lived on my own in the city of Rio de Janeiro for more than six years.
 
-Throughout the years 2018 and 2019, I learned a lot about iOS development and development in general at the 
-Apple Developer Academy program, which was an amazing and unforgettable experience, and whose lab is located
-alongside the PUC-Rio University, where I'm also studying Information Systems since the second semester of 2016.
+I have an appreciation for things such as technology, gaming, music and storytelling, and I've always considered myself to be a deeply creative, curious, passionate and dedicated person. My biggest professional objective is to create and contribute to digital solutions or digital works of art that break paradigms and make people reflect about their lives. In that way, I hope to give them the opportunity to change their mentality or even the world for the best!
 
-In addition, I have concluded a Web Design course at Microlins Nova Friburgo and I speak advanced English and
-Basic German apart from Portuguese, which is my main language. I also sing, play the guitar and compose music,
-both as a hobby and for personal or non personal projects. I occasionally try to do voice acting as well,
-since people say I have a relatively flexible voice.
+I have graduated in Information Systems at PUC-Rio, where I learned about all sorts of concepts, practices, technologies and programming languages. I was also part of Apple Developer Academy, whose lab was situated next to the university. There, I learned a lot about native iOS development with Swift and XCode, and development in general, which was an amazing and unforgettable experience.
+
+As for additional skills, I have concluded a Web Design course at Microlins Nova Friburgo and had some experience making and editing images, as well as videos. I also sing, play the guitar and compose music, both as a hobby and for personal or non personal projects. I have dipped my toes in voice acting as well, since I have a relatively flexible voice. And finally, I've experimented a bit with 2D animation and game design.
+
+I'm currently learning web technologies such as React, Redux and Node.JS.
+
+As for languages, I speak advanced English, basic German and native Portuguese.
+
+If you liked what you read so far, thank you for your time. Consider reaching out to me so we can talk and hopefully work together! 🤘🤝
 
 <br>
 
